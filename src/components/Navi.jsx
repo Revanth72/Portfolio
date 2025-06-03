@@ -8,7 +8,7 @@ const Navi = () => {
 
 return (
     <nav id="navbar">
-        <a href="#" class="logo">RR</a>
+        <a href="#" class="logo">RBR</a>
         <ul class="nav-links" id="navLinks">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>

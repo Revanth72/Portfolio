@@ -76,24 +76,23 @@ return (
             </div>
             <div class="experience-content">
                 <h3 class="experience-title">Web Developer</h3>
-                <p class="">Worked on various types of data to make sure model gets trained well by using EC2, S3 buckets, RDS from AWS.</p>
+                <p class="">Designed a responsive NGO donation website, increasing outreach by 40%.</p>
                 <div class="experience-tags">
                     <span class="experience-tag">JavaScript</span>
                     <span class="experience-tag">Spring MVC</span>
                     <span class="experience-tag">Java</span>
                     <span class="experience-tag">PostgreSQL</span>
-                    
+                     <span class="experience-tag">HTML</span>
+                      <span class="experience-tag">CSS</span>
                     <span class="experience-tag">AWS</span>
                 </div>
             </div>
 
             <div class="experience-overlay">
                 
-                <p class="overlay-description">Enhanced system performance by conducting bottleneck analysis, optimizing database queries, and reducing processing time by 40% through cloud-based auto-scaling solutions.</p>
-                <ul class="overlay-features">
-                    <li>Integrated DevOps practices, including containerization with Docker and orchestration using Kubernetes, ensuring smooth deployment and high availability.</li>
-                    <li>Actively participated in agile project management, adhering to the Software Development Lifecycle (SDLC), fostering collaboration, and streamlining development processes.</li>
-                </ul>
+                <p class="overlay-description">Led a 5-person team to build a donation platform with HTML5, CSS3, JavaScript, and Bootstrap, boosting user engagement by 25%.</p>
+                <p class="overlay-description">Crafted backend using Java, Spring MVC, and PostgreSQL, reducing transaction time by 30% and processing 1,000+ donations in 3 months.</p>
+                <p class="overlay-description">Developed a RESTful API for the donation platform, enabling seamless integration with third-party payment gateways and improving transaction efficiency.</p>
             </div>
         </div>
         

@@ -17,8 +17,8 @@
     opacity: 1;
     transform: translateY(30px);
     position: relative;
-    width:350px;
-    height: 450px; /* Fixed height for uniform cards */
+    width:410px;
+    height: 420px; /* Fixed height for uniform cards */
 }
 
 .show-on-scroll .experience-card {

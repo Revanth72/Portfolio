@@ -9,7 +9,7 @@ return (
         <div class="social-links">
             <a target='_blank' href="https://www.linkedin.com/in/revanth-babu-raavi-754429222/" class="social-link"><img src={link}/></a>
             <a target='_blank' href="https://github.com/Revanth72" class="social-link"><img src={git}/></a>
-            <a target='_blank' href="#" class="social-link"><img src={email}/></a>
+            <a target='_blank' href="mailto:revanthbabu2001@gmail.com" class="social-link"><img src={email}/></a>
         </div>
         <p class="copyright">© 2025 Revanth Babu Raavi. All Rights Reserved.</p>
     </footer>
