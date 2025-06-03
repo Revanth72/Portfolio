@@ -8,31 +8,32 @@ return (
     <section id="experience" class="animate-in">
     <h2 class="section-title">My Experience</h2>
     
-    {/*Augumented Byte*/ }
+    
+     {/*Kansas State University*/ }
     <div class="experience-grid">
         <div class="experience-card">
             <div class="experience-image">
-                <img src={exp1} alt="Augumented Byte" />
+                <img src={exp3} alt="kansas" />
             </div>
             <div class="experience-content">
-                <h3 class="experience-title">Software Developer</h3>
-                <p class="">Worked on various types of data to make sure model gets trained well by using EC2, S3 buckets, RDS from AWS.</p>
+                <h3 class="experience-title">Software Developer Research Assistant</h3>
+                <p class="">Developed interactive web interfaces to display water droplet and precipitation predictions from Deep Learning models, resulting in a 30% improvement in user engagement.</p>
                 <div class="experience-tags">
                     <span class="experience-tag">Python</span>
-                    <span class="experience-tag">OpenCV</span>
-                    <span class="experience-tag">Machine Learning</span>
+                    <span class="experience-tag">React</span>
+                    <span class="experience-tag">JavaScript</span>
                     <span class="experience-tag">Deep Learning</span>
+                    <span class="experience-tag">Graph QL</span>
                     <span class="experience-tag">AWS</span>
                 </div>
             </div>
 
             <div class="experience-overlay">
                 
-                <p class="overlay-description">Enhanced system performance by conducting bottleneck analysis, optimizing database queries, and reducing processing time by 40% through cloud-based auto-scaling solutions.</p>
-                <ul class="overlay-features">
-                    <li>Integrated DevOps practices, including containerization with Docker and orchestration using Kubernetes, ensuring smooth deployment and high availability.</li>
-                    <li>Actively participated in agile project management, adhering to the Software Development Lifecycle (SDLC), fostering collaboration, and streamlining development processes.</li>
-                </ul>
+                <p class="overlay-description">Used GraphQL to streamline data retrieval in a React-based wheat yield prediction dashboard, improving performance and user experience.</p>
+                <p class="overlay-description">Constructed data visualization tools using JavaScript and Chart.js, improving insight clarity from plant data analysis by 25%.</p>
+                <p class="overlay-description">Integrated RT-DETR and YOLO computer vision model detection results into a plant detection web portal, reducing image review time by 40% through real-time visual feedback.</p>
+                
             </div>
         </div>
     
@@ -46,11 +47,14 @@ return (
                 <h3 class="experience-title">Software Engineer</h3>
                 <p class="">Enhanced system performance by conducting bottleneck analysis, optimizing database queries, and reducing processing time by 40% through cloud-based auto-scaling solutions.</p>
                 <div class="experience-tags">
-                    <span class="experience-tag">Python</span>
-                    <span class="experience-tag">OpenCV</span>
-                    <span class="experience-tag">Machine Learning</span>
-                    <span class="experience-tag">Deep Learning</span>
-                    <span class="experience-tag">AWS</span>
+                    <span class="experience-tag">TypeScript</span>
+                    <span class="experience-tag">Angular</span>
+                    <span class="experience-tag">React</span>
+                    <span class="experience-tag">Java</span>
+                    <span class="experience-tag">C#</span>
+                    <span class="experience-tag">ASP.NET</span>
+                    <span class="experience-tag">MySQL</span>
+                    <span class="experience-tag">Azure</span>
                 </div>
             </div>
 
@@ -65,33 +69,34 @@ return (
         </div>
     
     
-    {/*Kansas State University*/ }
-    
+   {/*Augumented Byte*/ }
         <div class="experience-card">
             <div class="experience-image">
-                <img src={exp3} alt="rk_tech" />
+                <img src={exp1} alt="Augumented Byte" />
             </div>
             <div class="experience-content">
                 <h3 class="experience-title">Web Developer</h3>
-                <p class="">• Created responsive web applications using HTML, CSS, and JavaScript, focusing on cross-browser compatibility.</p>
+                <p class="">Worked on various types of data to make sure model gets trained well by using EC2, S3 buckets, RDS from AWS.</p>
                 <div class="experience-tags">
-                    <span class="experience-tag">Python</span>
-                    <span class="experience-tag">OpenCV</span>
-                    <span class="experience-tag">Machine Learning</span>
-                    <span class="experience-tag">Deep Learning</span>
+                    <span class="experience-tag">JavaScript</span>
+                    <span class="experience-tag">Spring MVC</span>
+                    <span class="experience-tag">Java</span>
+                    <span class="experience-tag">PostgreSQL</span>
+                    
                     <span class="experience-tag">AWS</span>
                 </div>
             </div>
 
             <div class="experience-overlay">
                 
-                <p class="overlay-description">Led frontend development for a team of five engineers, implementing modern UI solutions and establishing best practices for code quality and application architecture.</p>
+                <p class="overlay-description">Enhanced system performance by conducting bottleneck analysis, optimizing database queries, and reducing processing time by 40% through cloud-based auto-scaling solutions.</p>
                 <ul class="overlay-features">
-                    <li>Reduced application load time by 40% through code optimization</li>
-                    <li>Mentored co-junior developers and conducted code reviews</li>
+                    <li>Integrated DevOps practices, including containerization with Docker and orchestration using Kubernetes, ensuring smooth deployment and high availability.</li>
+                    <li>Actively participated in agile project management, adhering to the Software Development Lifecycle (SDLC), fostering collaboration, and streamlining development processes.</li>
                 </ul>
             </div>
         </div>
+        
     
     </div>
 </section>
