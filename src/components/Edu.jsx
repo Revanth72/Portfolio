@@ -26,7 +26,6 @@ return (
                 <ul class="overlay-features">
                     <li>Worked as a Graduate Research and Teaching Assistant in AI domain</li>
                     <li>Advanced coursework in algorithms and data structures</li>
-                    <li>Integrated AI detection results into a plant detection web portal</li>
                     <li>Senior project: Developed a deep learning based application for Violence Detection</li>
                     
                     
