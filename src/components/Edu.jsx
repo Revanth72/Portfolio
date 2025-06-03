@@ -26,7 +26,7 @@ return (
                 <ul class="overlay-features">
                     <li>Worked as a Graduate Research and Teaching Assistant in AI domain</li>
                     <li>Advanced coursework in algorithms and data structures</li>
-                    <li>Senior project: Developed a deep learning based application for Violence Detection</li>
+                    <li>Thesis project: Developed a deep learning based application for Violence Detection</li>
                     
                     
                 </ul>
