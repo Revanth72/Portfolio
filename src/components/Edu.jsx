@@ -22,7 +22,7 @@ return (
             
             <div class="education-overlay">
                
-                <p class="overlay-description">Earned a Graduate Degree in Computer Science, specializing in artificial intelligence, web development and advanced data structures.</p>
+                <p class="overlay-description">Earned a Graduate Degree in Computer Science, specializing in artificial intelligence, and web development.</p>
                 <ul class="overlay-features">
                     <li>Worked as a Graduate Research and Teaching Assistant in AI domain</li>
                     <li>Advanced coursework in algorithms and data structures</li>
