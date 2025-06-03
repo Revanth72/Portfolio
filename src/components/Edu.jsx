@@ -15,7 +15,7 @@ return (
                 <h3 class="education-title">Graduate Degree</h3>
                 <p class="">Graduate in Computer Science with focus on web development and software engineering.</p>
                 <div class="education-tags">
-                    <span class="education-tag">2023-2025</span>
+                    
                     <span class="education-tag">4 GPA</span>
                 </div>
             </div>
@@ -42,8 +42,8 @@ return (
                 <h3 class="education-title">Under Graduate Degree</h3>
                 <p class="">Bachelor of Technology in Computer Science with focus on OOPS in java, web development, computer networks , system design and software engineering.</p>
                 <div class="education-tags">
-                    <span class="education-tag">2018-2022</span>
-                    <span class="education-tag">8.5 GPA</span>
+                    
+                    <span class="education-tag">7.6 GPA</span>
                     
                 </div>
             </div>
