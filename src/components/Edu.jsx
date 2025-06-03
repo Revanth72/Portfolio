@@ -13,7 +13,7 @@ return (
             </div>
             <div class="education-content">
                 <h3 class="education-title">Graduate Degree</h3>
-                <p class="">Graduate in Computer Science with focus on web development and software engineering.</p>
+                <p class="">Graduate in Computer Science with focus on artificial intelligence and web development.</p>
                 <div class="education-tags">
                     
                     <span class="education-tag">4 GPA</span>
@@ -22,11 +22,12 @@ return (
             
             <div class="education-overlay">
                
-                <p class="overlay-description">Earned a Graduate Degree in Computer Science, specializing in machine learning methodologies and advanced data structures.</p>
+                <p class="overlay-description">Earned a Graduate Degree in Computer Science, specializing in artificial intelligence, web development and advanced data structures.</p>
                 <ul class="overlay-features">
+                    <li>Worked as a Graduate Research and Teaching Assistant in AI domain</li>
                     <li>Advanced coursework in algorithms and data structures</li>
                     <li>Integrated AI detection results into a plant detection web portal</li>
-                    <li>Senior project: Developed a AI based Application for Voilence Detection</li>
+                    <li>Senior project: Developed a deep learning based application for Violence Detection</li>
                     
                     
                 </ul>
@@ -40,21 +41,21 @@ return (
             </div>
             <div class="education-content">
                 <h3 class="education-title">Under Graduate Degree</h3>
-                <p class="">Bachelor of Technology in Computer Science with focus on OOPS in java, web development, computer networks , system design and software engineering.</p>
+                <p class="">Bachelor of Technology in Computer Science with focus on OOPS in java, Python, web development, data Structures & algorithms, computer networks and software engineering.</p>
                 <div class="education-tags">
                     
-                    <span class="education-tag">7.6 GPA</span>
+                    <span class="education-tag">3.24 GPA</span>
                     
                 </div>
             </div>
             
             <div class="education-overlay">
                
-                <p class="overlay-description">Earned a Bachelor of Technology in Computer Science with honors, specializing in modern web technologies and application development methodologies.</p>
+                <p class="overlay-description">Earned a Bachelor's degree in Computer Science, specializing in modern web technologies and application development methodologies.</p>
                 <ul class="overlay-features">
-                    <li>Advanced coursework in java, system design and computer networks</li>
-                    <li>Senior project: Developed an hand gesture model using openCV</li>
-                    <li>Teaching assistant in System Design for freshmans</li>
+                    <li>Advanced coursework in java, python, cybersecurity, and computer networks</li>
+                    <li>Major project: Developed a crop yield prediction model using machine learning.</li>
+                    <li>Participated in hackathons and coding competitions, winning multiple awards</li>
                 </ul>
             </div>
         </div>
