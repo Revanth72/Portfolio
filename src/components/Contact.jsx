@@ -24,7 +24,7 @@ return (
                     <div class="contact-icon">📍</div>
                     <div class="contact-text">
                         <span>Location</span>
-                        Manhattan 
+                        Manhattan, Kansas, USA 
                     </div>
                 </div>
             </div>
