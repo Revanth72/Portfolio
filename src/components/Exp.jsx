@@ -45,7 +45,7 @@ return (
             </div>
             <div class="experience-content">
                 <h3 class="experience-title">Software Engineer</h3>
-                <p class="">Enhanced system performance by conducting bottleneck analysis, optimizing database queries, and reducing processing time by 40% through cloud-based auto-scaling solutions.</p>
+                <p class="">Built and launched 15+ custom full-stack applications with up to 40% higher end-user engagement due to optimized UI/UX and mobile-friendliness.</p>
                 <div class="experience-tags">
                     <span class="experience-tag">TypeScript</span>
                     <span class="experience-tag">Angular</span>
@@ -60,11 +60,9 @@ return (
 
             <div class="experience-overlay">
                 
-                <p class="overlay-description">Led frontend development for a team of five engineers, implementing modern UI solutions and establishing best practices for code quality and application architecture.</p>
-                <ul class="overlay-features">
-                    <li>Developed and deployed RESTful APIs with real-time data synchronization. </li>
-                    <li>Ensuring compliance with privacy standards (HIPAA) and leveraging CI/CD pipelines for seamless updates.</li>
-                </ul>
+                <p class="overlay-description">Led agile ceremonies (daily stand-ups, planning, retrospectives) across 10+ sprint cycles, facilitating on-time delivery and team alignment consistently.</p>
+                <p class="overlay-description">Integrated data visualization with Material-UI, Bootstrap, and Tailwind CSS has raised dashboard usability scores by 30% as measured by end-user feedback.</p>
+                <p class="overlay-description">Deployed applications on AWS, Azure, and GCP, utilizing services such as S3, Lambda, and IAM for scalable and secure hosting. </p>
             </div>
         </div>
     

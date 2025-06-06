@@ -2,6 +2,9 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 30px;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .EXp_total{
     display: grid;
@@ -17,8 +20,13 @@
     opacity: 1;
     transform: translateY(30px);
     position: relative;
-    width:410px;
-    height: 420px; /* Fixed height for uniform cards */
+    min-width: 260px;
+    width: 100%;
+    /* Remove fixed height for better responsiveness */
+    /* height: 400px; */
+    min-height: 380px;
+    display: flex;
+    flex-direction: column;
 }
 
 .show-on-scroll .experience-card {
@@ -59,7 +67,7 @@
 }
 
 .experience-content {
-    padding: 0.5px;
+    padding: 20px;
     position: relative;
     z-index: 1;
     transition: all 0.5s;
@@ -189,7 +197,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 10px;
+    padding: 30px;
     opacity: 0;
     z-index: 5;
     pointer-events: none;
@@ -385,4 +393,43 @@
 
 .overlay-link:hover::before {
     height: 100%;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+    .experience-grid {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 20px;
+        padding: 0 10px;
+    }
+    .experience-card {
+        min-width: 140px;
+        min-height: 300px;
+    }
+    .experience-image {
+        height: 120px;
+    }
+}
+
+@media (max-width: 600px) {
+    .experience-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+        padding: 0 5px;
+    }
+    .experience-card {
+        min-width: 0;
+        min-height: 220px;
+        padding: 10px 0;
+    }
+    .experience-image {
+        height: 90px;
+    }
+    .experience-content {
+        padding: 10px;
+    }
+    .experience-overlay {
+        padding: 15px;
+    }
 }
