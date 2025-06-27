@@ -16,7 +16,7 @@ return (
                 <p class="">Graduate in Computer Science with focus on artificial intelligence and web development.</p>
                 <div class="education-tags">
                     
-                    <span class="education-tag">4 GPA</span>
+                    <span class="education-tag">3.9 GPA</span>
                 </div>
             </div>
             

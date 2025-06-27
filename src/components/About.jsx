@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import myImage from "../../assets/rev photo.png"; 
+import myImage from "../../assets/rev_photo.png"; 
 const About = () => {
     return (
     <section id="about" class="animate-in">
