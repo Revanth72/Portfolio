@@ -73,7 +73,7 @@ return (
                 <img src={exp1} alt="Augumented Byte" />
             </div>
             <div class="experience-content">
-                <h3 class="experience-title">Web Application Developer</h3>
+                <h3 class="experience-title">Web Application Developer Intern</h3>
                 <p class="">Designed a responsive NGO donation website, increasing outreach by 40%.</p>
                 <div class="experience-tags">
                     <span class="experience-tag">JavaScript</span>
