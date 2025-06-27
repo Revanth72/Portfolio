@@ -5,7 +5,7 @@ const Intro = () => {
         <header id="home">
         <div class="header-content">
             <h1 class="header-title">Revanth Babu Raavi</h1>
-            <p class="header-subtitle">Full-Stack Developer</p>
+            <p class="header-subtitle">Software Engineer</p>
         </div>
         <a href="#about" class="scroll-down">↓</a>
     </header>

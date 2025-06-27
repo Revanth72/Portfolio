@@ -10,7 +10,7 @@ const About = () => {
                 { <img src={myImage}  alt="Revanth Raavi" /> }
             </div>
             <div class="about-text">
-                <p>I am a Software Engineer and Full Stack Developer with 4+ years of experience delivering scalable, high-performance web applications using Java, Spring Boot, React, Angular, Node.js, ASP.NET Core, and cloud technologies (AWS, Azure, GCP). I bring proven expertise from professional roles where I’ve designed microservices architectures, built robust APIs, integrated real-time data pipelines, and deployed cloud-native solutions, alongside additional experience applying AI and machine learning in web-based projects.</p>
+                <p>I am a Software Engineer with 4+ years of experience delivering scalable, high-performance web applications using Java, Spring Boot, React, Angular, Node.js, ASP.NET Core, and cloud technologies (AWS, Azure, GCP). I bring proven expertise from professional roles where I’ve designed microservices architectures, built robust APIs, integrated real-time data pipelines, and deployed cloud-native solutions, alongside additional experience applying AI and machine learning in web-based projects.</p>
                 <div class="skills">
                     
                     <span class="skill">JavaScript</span>
